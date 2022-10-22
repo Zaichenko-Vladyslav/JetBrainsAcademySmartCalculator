@@ -1,6 +1,6 @@
 # write your code here
 
-import re  # to look for numbers in variable names (Invalid variable)
+import re
 
 # Function that returns True if variable has digit \d in the name
 def hasNumbers(inputString):
